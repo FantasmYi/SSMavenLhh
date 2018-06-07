@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-protal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-service-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-service-cob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-service-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lhh-service-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/freemarker" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

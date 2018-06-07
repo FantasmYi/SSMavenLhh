@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lhh-service-cms:war">
+    <output-path>$PROJECT_DIR$/Lhh-service-cms/target</output-path>
+    <root id="archive" name="Lhh-service-cms-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lhh-service-cms:war exploded" />
+    </root>
+  </artifact>
+</component>

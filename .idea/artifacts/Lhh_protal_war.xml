@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Lhh-protal:war">
+    <output-path>$PROJECT_DIR$/Lhh-protal/target</output-path>
+    <root id="archive" name="Lhh-protal-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Lhh-protal:war exploded" />
+    </root>
+  </artifact>
+</component>

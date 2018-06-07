@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="freemarker" />
+        <module name="Lhh-common" />
+        <module name="Lhh-console" />
+        <module name="Lhh-dao" />
+        <module name="Lhh-interface" />
+        <module name="Lhh-login" />
+        <module name="Lhh-pojo" />
+        <module name="Lhh-protal" />
+        <module name="Lhh-service-cms" />
+        <module name="Lhh-service-cob" />
+        <module name="Lhh-service-product" />
+        <module name="Lhh-service-solr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="freemarker" target="1.7" />
+      <module name="Lhh-common" target="1.7" />
+      <module name="Lhh-console" target="1.7" />
+      <module name="Lhh-dao" target="1.7" />
+      <module name="Lhh-interface" target="1.7" />
+      <module name="Lhh-login" target="1.7" />
+      <module name="Lhh-pojo" target="1.7" />
+      <module name="Lhh-protal" target="1.7" />
+      <module name="Lhh-service-cms" target="1.7" />
+      <module name="Lhh-service-cob" target="1.7" />
+      <module name="Lhh-service-product" target="1.7" />
+      <module name="Lhh-service-solr" target="1.7" />
+      <module name="SSMavenLhh" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

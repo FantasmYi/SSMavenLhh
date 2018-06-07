@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lhh-common/Lhh-common.iml" filepath="$PROJECT_DIR$/Lhh-common/Lhh-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-console/Lhh-console.iml" filepath="$PROJECT_DIR$/Lhh-console/Lhh-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-dao/Lhh-dao.iml" filepath="$PROJECT_DIR$/Lhh-dao/Lhh-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-interface/Lhh-interface.iml" filepath="$PROJECT_DIR$/Lhh-interface/Lhh-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-login/Lhh-login.iml" filepath="$PROJECT_DIR$/Lhh-login/Lhh-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-pojo/Lhh-pojo.iml" filepath="$PROJECT_DIR$/Lhh-pojo/Lhh-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-protal/Lhh-protal.iml" filepath="$PROJECT_DIR$/Lhh-protal/Lhh-protal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-service-cms/Lhh-service-cms.iml" filepath="$PROJECT_DIR$/Lhh-service-cms/Lhh-service-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-service-cob/Lhh-service-cob.iml" filepath="$PROJECT_DIR$/Lhh-service-cob/Lhh-service-cob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-service-product/Lhh-service-product.iml" filepath="$PROJECT_DIR$/Lhh-service-product/Lhh-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lhh-service-solr/Lhh-service-solr.iml" filepath="$PROJECT_DIR$/Lhh-service-solr/Lhh-service-solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSMavenLhh.iml" filepath="$PROJECT_DIR$/SSMavenLhh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freemarker/freemarker.iml" filepath="$PROJECT_DIR$/freemarker/freemarker.iml" />
+    </modules>
+  </component>
+</project>
